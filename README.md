@@ -32,5 +32,5 @@ This portfolio shows hands-on GRC skills for junior and entry-level cybersecurit
 
 ## Contact
 
-LinkedIn: (Add later)
-Email: (Optional)
+LinkedIn: https://www.linkedin.com/in/nicole-romiski/
+Email: NicoleRomiski1@gmail.com
